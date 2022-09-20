@@ -12,7 +12,7 @@ This is the core part of FFmpeg.wasm where we transpile C/C++ code of FFmpeg to 
 
 If you have any issues for this repository, please put it here: https://github.com/ffmpegwasm/ffmpeg.wasm/issues
 
-## Setup
+## Setup Step
 
 ```
 $ git clone https://github.com/ffmpegwasm/ffmpeg.wasm-core
